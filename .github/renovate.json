@@ -1,0 +1,14 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>technologiestiftung/renovate-config"
+  ],
+  "packageRules": [
+    {
+      "groupName": "devDependencies-non-major",
+      "automerge": false,
+      "matchDepTypes": ["devDependencies"],
+      "matchUpdateTypes": ["patch", "minor"]
+    }
+  ]
+}
