@@ -29,3 +29,11 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 This project is deployed to [Netlify](https://www.netlify.com/). Updates to the `main` branch will automatically trigger a new deploy.
+
+If you don't want an update to trigger a new deploy, you can use the flag `[skip ci]` in your commit message and Netlify will ignore it. This can be useful for chores such as updating the README file.
+
+Example:
+
+```bash
+git commit -m "docs: update README [skip ci]"
+```
