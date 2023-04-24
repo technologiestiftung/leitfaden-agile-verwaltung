@@ -5,6 +5,47 @@ sidebar_label: "Ausschreibung vorbereiten"
 
 # Help wanted!
 
-## Eine Ausschreibung vorbereiten und den richtigen Umsetzungspartner finden
+# Eine Ausschreibung vorbereiten und den richtigen Umsetzungspartner finden
 
-Sie haben herausgefunden, welches Problem Sie für Ihre Zielgruppe lösen wollen und wie sie dabei vorgehen wollen? Dann sind Sie nun wahrscheinlich auf der Suche nach einem passenden Dienstleister und haben sich bereits mit dem Beschaffungsprozess und dem öffentlichen Vergaberecht vertraut gemacht.
+**Sie haben herausgefunden, welches Problem Sie für Ihre Zielgruppe lösen wollen und wie sie dabei vorgehen wollen? Dann sind Sie nun wahrscheinlich auf der Suche nach einem passenden Dienstleister und haben sich bereits mit dem Beschaffungsprozess und dem öffentlichen Vergaberecht vertraut gemacht.**
+
+Auch im bestehenden Vergaberecht ist es durchaus möglich, Freiraum für die innovative Beschaffung und Entwicklung von digitalen Produkten zu schaffen, wenn man ein paar grundlegende Punkte beachtet. Die folgenden Hilfestellungen zeigen Ihnen, wie Sie beispielsweise bei der Vorbereitung der Ausschreibung oder bei der Auswahl des Dienstleisters agil vorgehen können.
+
+→ [Auf der Website des Kompetenzzentrums innovative Beschaffung (KOINNO) finden Sie viele wertvolle Hinweise zu innovativen Beschaffungsprozessen aus vergaberechtlicher Sicht](https://www.koinno-bmwk.de/)
+
+## Rahmenbedingungen zuerst!
+
+Bevor Sie damit beginnen, die inhaltlichen Anforderungen ausführlich zu beschreiben, sollten Sie zunächst die allgemeinen Rahmenbedingungen abklären, die den Umfang des Vorhabens definieren. Diese können strukturell oder inhaltlich bedingt sein, wie z. B. folgende Orientierungsfragen:
+
+* Welche Einschränkungen und welche Freiräume gibt es?
+* Was sind die Grundlagen der Barrierefreiheit?
+* Müssen Gestaltungsrichtlinien (z.B. die Berlin-CI) berücksichtigt werden?
+* Welche Vorgaben an die IT-Architektur gibt es?
+* Was ist das Gesamtbudget?
+* Müssen andere Abteilungen, Behörden oder sonstige Verwaltungsakteure mit eingebunden werden?
+* In welchem Zeitraum soll das Projekt angegangen und abgeschlossen werden?
+
+In vielen Fällen sind die Antworten hierauf ausschlaggebend für bestimmte inhaltliche oder zeitliche Aspekte in der Produktentwicklung. Nicht selten wird die Veröffentlichung eines Produkts zu einem späteren Zeitpunkt ausgebremst, weil wichtige Akteure nicht rechtzeitig einbezogen wurden (z. B. Barrierefreiheitsbeauftragte, Personalrat oder interne IT-Beauftragte). Die Klärung dieser Rahmenbedingungen im Voraus ist somit essentiell, um die Entwicklung auf sichere Füße zu stellen.
+
+## Kaufen oder Entwickeln? Sie haben die Wahl
+Eine wichtige Entscheidung im Voraus: Sollten Sie eine bereits bestehende Lösung kaufen oder eine eigene Lösung entwickeln lassen? Beide Entscheidungen haben Vor- und Nachteile. Wenn Sie eine bestehende Lösung kaufen, haben Sie wahrscheinlich schneller ein lauffähiges Produkt, denn Sie sparen bei der Entwicklung Zeit. Allerdings bieten bestehende Lösungen meistens weniger Möglichkeiten für kundenspezifische Anpassungen (und wenn doch, können diese sehr teuer sein). Wollen Sie eine eigene Lösung entwickeln, können Sie das Endprodukt passgenau nach Ihren Wünschen und Bedarfen gestalten. Das kann aber natürlich zeit- und ressourcenintensiv sein. Es bleibt auch die Möglichkeit, eine bestehende Open Source-Lösung als Basis zu nutzen und diese auf Ihre Bedürfnisse anzupassen. Damit hätten Sie eventuell mehr Freiraum für eigene Anpassungen als mit einer proprietären Lösung, aber Sie müssen trotzdem selbst ein:e Entwickler:in für die Weiterentwicklung und Wartung finden und entsprechend Ressourcen in die Entwicklungsarbeit investieren.
+
+Es gibt daher nicht den einen, richtigen Weg. Oft lohnt es sich, verschiedene Szenarien zu vergleichen und abhängig von den verfügbaren Ressourcen und den eigenen Prioritäten eine Entscheidung zu treffen.
+
+## Je größer desto besser? Nicht immer – denken Sie modular!
+Die Beauftragung eines einzelnen Anbieters über einen längeren Zeitraum oder für ein komplexes Produkt mag zunächst die bequemste Lösung sein, führt aber oftmals zu einer Anbieter-Abhängigkeit. Je mehr Komponenten einer Software nämlich von einem einzigen Anbieter entwickelt werden, desto mehr Kontrolle hat dieser auch über die zukünftige Weiterentwicklung des Produkts. So kann der Anbieter seine eigenen Produkte und Dienste in die zu entwickelnde Software leichter integrieren und sich dadurch die Abhängigkeit der Verwaltung zum Anbieter sichern.
+
+Wie sich das vermeiden lässt? Denken Sie modular. Statt des Kaufes oder der Entwicklung eines einzelnen, komplexen Produktes können Verwaltungen das Produkt auch in einzelne Module aufteilen, die durch Schnittstellen miteinander verknüpft sind und von unterschiedlichen Anbietern bedient werden können. Diese Aufteilung in mehrere kleine Aufträge verhindert den sogenannten „Anbieter Lock-in“, erhöht die Wahrscheinlichkeit einer erfolgreichen Entwicklung durch die geringere Komplexität und schafft zusätzlich den Anreiz, ein nachhaltiges und offenes Software-Ökosystem zu bauen.
+
+## Interoperabilität mit bestehenden und zukünftigen Systemen durch Standards und Schnittstellen sichern
+
+Schnittstellen sind ein wichtiger Baustein moderner IT-Systeme: in einer Verwaltung arbeiten die Mitarbeiter:innen meistens nicht mit einem einzigen System, sondern mit einer Vielzahl unterschiedlicher Programme und Services, je nachdem welche Aufgabe erledigt werden muss. Weil es meistens nicht „das eine“ System für alles gibt, ist es wichtig, dass Programme über Schnittstellen miteinander „sprechen“ können – also dass sie Daten untereinander austauschen können.
+
+Was bedeutet das für Ihre Ausschreibung und geplante Produktentwicklung? Legen Sie in Ihrer Leistungsbeschreibung fest, dass Ihr Produkt mit Rücksicht auf gängige, möglichst offene Schnittstellen-Standards entwickelt werden sollte (ggf. benennen Sie direkt die einzuhaltenden Standards, sofern Sie das bereits wissen). So erhöhen Sie die Chancen, dass Ihr noch zu entwickelndes Produkt mit Ihren existierenden und zukünftigen Systemen und Produkten kompatibel ist.
+Ein weiterer Vorteil: die Verwendung von offenen, standardisierten Schnittstellen reduziert Ihre potentielle Abhängigkeit von einem spezifischen Anbieter. Indem Sie sich eine breitere Auswahl an Produkten verschaffen, mit denen Sie später arbeiten können, sind Sie nicht mehr auf Systeme beschränkt, die eine proprietäre Schnittstelle eines spezifischen Anbieters erfordern.
+
+## Schaffen Sie Freiraum für Innovationen mit funktionalen Leistungsbeschreibungen
+
+Ausschreibungen für ein digitales Produkt sollten nicht immer von vornherein alle Facetten und Funktionen eines gewünschten Produkts definieren. Dies entspricht nämlich einem Vorgehen, das eher schwer mit Agilität und Innovation vereinbar ist, da beide Seiten Flexibilität benötigen, um schnelle Anpassungen anhand von Feedback durchzuführen.
+
+Eine Alternative ist die sogenannte ["funktionale Leistungsbeschreibung"](https://toolbox.koinno-bmwi.de/auswahlfragen/chooseRole/role,nutzer/werkzeugliste/Liste_Bedarfstraeger/werkzeug-steckbrief/12). Statt eines ausführlichen Leistungskatalogs können ausschreibende Stellen eine Leistungsbeschreibung verfassen, die das zu erreichende Ziel definiert – und das möglichst verständlich und frei vom Verwaltungsjargon. In der Beschreibung macht die Verwaltung klar, was sie mit dem Produkt erreichen will (z. B. eine konkrete Verbesserung eines bestimmten Prozesses), gibt aber nicht vor, wie das Ziel erreicht werden sollte – und schafft dadurch Freiraum für Innovation und agiles Arbeiten.
