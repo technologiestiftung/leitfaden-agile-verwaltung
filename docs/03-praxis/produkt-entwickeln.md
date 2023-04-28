@@ -9,7 +9,7 @@ sidebar_label: "Agil entwickeln"
 
 **Der Produktrahmen ist festgelegt und Sie haben einen Dienstleister oder Umsetzungspartner für Ihr Produkt gefunden? Dann sind Sie jetzt startklar und es kann in die tatsächliche Entwicklung des Produkts gehen!**
 
-Auch wenn Sie die Entwicklungsarbeit nicht selbst erbringen können, sollten Sie sich in dieser Phase keineswegs zurücklehnen, sondern weiterhin eine aktive Rolle einnehmen. Die zentrale Frage, um die es sich in diesem Abschnitt dreht: Wie stellt man sicher, dass die Zusammenarbeit mit dem Umsetzungspartner reibungslos verläuft und das Produkt erfolgreich entwickelt wird?
+Auch wenn Sie die Entwicklungsarbeit nicht selbst erbringen können, sollten Sie sich in dieser Phase keineswegs zurücklehnen, sondern weiterhin eine aktive Rolle einnehmen. Die zentrale Frage, um die es sich in diesem Abschnitt dreht: **Wie stellt man sicher, dass die Zusammenarbeit mit dem Umsetzungspartner reibungslos verläuft und das Produkt erfolgreich entwickelt wird?**
 
 ## Behalten Sie die Verantwortung mit einer/einem Product Owner:in
 

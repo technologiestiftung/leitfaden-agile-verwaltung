@@ -21,7 +21,7 @@ und Beruf umfassen können.
 
 Das Produktteam nutzt diese Profile, um sogenannte „User Stories“ (Nutzer:innengeschichten) zu schreiben. Diese enthalten kurze Beschreibungen (wirklich nur 1-2 Sätze) über die Interessen und Ziele eines/einer Nutzer:in im Bezug auf das zu entwickelnde Produkt. Die klassische Struktur einer User Story ist:
 
-> Als ein/e *(User Persona)* will ich *(irgendein Ziel erreichen)* damit ich *(irgendeinen Mehrwert aus dem Ziel realisieren kann)*.
+> Als ein/e *[User Persona]* will ich *[irgendein Ziel erreichen]* damit ich *[irgendeinen Mehrwert aus dem Ziel realisieren kann]*.
 
 User Personas und User Stories helfen dem Produktteam ihre Arbeit rund um die tatsächlichen Nutzer:innenbedarfe zu fokussieren: so behält das Team im Blick, für wen sie das Produkt letztlich entwickeln und was diese Personen von dem Produkt erwarten.
 
@@ -69,7 +69,7 @@ Ein agiles Team lebt davon, im ständigen Austausch zueinander zu stehen, um mö
 
 ### Sprint-Planungstreffen
 
-Agile Teams arbeiten meistens in Sprints (siehe [„Aufteilung von Aufgaben und Rollen“](wie-arbeitet-man-agil#2-aufteilung-von-aufgaben-und-rollen) für eine Erklärung von Sprints). Zu Beginn eines Sprints gibt es ein Planungstreffen, in dem das Produktteam festlegt, was die Arbeitsziele und die damit verbundenen Aufgaben für den kommenden Sprint sind und wer an welchen Aufgaben arbeiten wird. Die Arbeitsziele sollten für den Zeitraum des Sprints realistisch geplant sein. Bei dieser Einschätzung spielen z. B. die Komplexität der Aufgaben und die Auslastung
+Agile Teams arbeiten meistens in Sprints (siehe [„Aufteilung von Aufgaben und Rollen“](/wie-arbeitet-man-agil#sprint-planungstreffen) für eine Erklärung von Sprints). Zu Beginn eines Sprints gibt es ein Planungstreffen, in dem das Produktteam festlegt, was die Arbeitsziele und die damit verbundenen Aufgaben für den kommenden Sprint sind und wer an welchen Aufgaben arbeiten wird. Die Arbeitsziele sollten für den Zeitraum des Sprints realistisch geplant sein. Bei dieser Einschätzung spielen z. B. die Komplexität der Aufgaben und die Auslastung
 im Team eine wichtige Rolle.
 
 ### Retrospektiven (Retros)

@@ -11,11 +11,11 @@ sidebar_label: "Ausschreibung vorbereiten"
 
 Auch im bestehenden Vergaberecht ist es durchaus möglich, Freiraum für die innovative Beschaffung und Entwicklung von digitalen Produkten zu schaffen, wenn man ein paar grundlegende Punkte beachtet. Die folgenden Hilfestellungen zeigen Ihnen, wie Sie beispielsweise bei der Vorbereitung der Ausschreibung oder bei der Auswahl des Dienstleisters agil vorgehen können.
 
-→ [Auf der Website des Kompetenzzentrums innovative Beschaffung (KOINNO) finden Sie viele wertvolle Hinweise zu innovativen Beschaffungsprozessen aus vergaberechtlicher Sicht](https://www.koinno-bmwk.de/)
+→ Auf der [Website des Kompetenzzentrums innovative Beschaffung](https:www.koinno-bmwk.de) (KOINNO) finden Sie viele wertvolle Hinweise zu innovativen Beschaffungsprozessen aus vergaberechtlicher Sicht
 
 ## Rahmenbedingungen zuerst!
 
-Bevor Sie damit beginnen, die inhaltlichen Anforderungen ausführlich zu beschreiben, sollten Sie zunächst die allgemeinen Rahmenbedingungen abklären, die den Umfang des Vorhabens definieren. Diese können strukturell oder inhaltlich bedingt sein, wie z. B. folgende Orientierungsfragen:
+Bevor Sie damit beginnen, die inhaltlichen Anforderungen ausführlich zu beschreiben, sollten Sie zunächst die allgemeinen Rahmenbedingungen abklären, die den Umfang des Vorhabens definieren. Diese können strukturell oder inhaltlich bedingt sein, wie z. B. folgende **Orientierungsfragen**:
 
 * Welche Einschränkungen und welche Freiräume gibt es?
 * Was sind die Grundlagen der Barrierefreiheit?
@@ -42,6 +42,7 @@ Wie sich das vermeiden lässt? Denken Sie modular. Statt des Kaufes oder der Ent
 Schnittstellen sind ein wichtiger Baustein moderner IT-Systeme: in einer Verwaltung arbeiten die Mitarbeiter:innen meistens nicht mit einem einzigen System, sondern mit einer Vielzahl unterschiedlicher Programme und Services, je nachdem welche Aufgabe erledigt werden muss. Weil es meistens nicht „das eine“ System für alles gibt, ist es wichtig, dass Programme über Schnittstellen miteinander „sprechen“ können – also dass sie Daten untereinander austauschen können.
 
 Was bedeutet das für Ihre Ausschreibung und geplante Produktentwicklung? Legen Sie in Ihrer Leistungsbeschreibung fest, dass Ihr Produkt mit Rücksicht auf gängige, möglichst offene Schnittstellen-Standards entwickelt werden sollte (ggf. benennen Sie direkt die einzuhaltenden Standards, sofern Sie das bereits wissen). So erhöhen Sie die Chancen, dass Ihr noch zu entwickelndes Produkt mit Ihren existierenden und zukünftigen Systemen und Produkten kompatibel ist.
+
 Ein weiterer Vorteil: die Verwendung von offenen, standardisierten Schnittstellen reduziert Ihre potentielle Abhängigkeit von einem spezifischen Anbieter. Indem Sie sich eine breitere Auswahl an Produkten verschaffen, mit denen Sie später arbeiten können, sind Sie nicht mehr auf Systeme beschränkt, die eine proprietäre Schnittstelle eines spezifischen Anbieters erfordern.
 
 ## Schaffen Sie Freiraum für Innovationen mit funktionalen Leistungsbeschreibungen

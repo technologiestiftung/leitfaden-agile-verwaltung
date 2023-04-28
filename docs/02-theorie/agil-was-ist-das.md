@@ -8,7 +8,7 @@ sidebar_position: 1
 
 **Das Wort „Agilität“ taucht heute an allen Ecken und Enden auf, wenn es um moderne Arbeitsprozesse geht. Doch was genau verbirgt sich hinter diesem Begriff? Und wieso kommt ihm auch im Verwaltungskontext eine immer größere Bedeutung zu?**
 
-Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“]([https://agilemanifesto.org/iso/de/manifesto.html]), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.
+`Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“]([https://agilemanifesto.org/iso/de/manifesto.html]), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.`
 
 Obwohl das Konzept aus der Softwareentwicklung stammt, wird der Begriff agil heutzutage auch häufig benutzt, um eine neue Denkweise im Projektmanagement zu beschreiben, die sich von planungsorientierten, traditionellen Ansätzen distanziert. Insgesamt basiert die Idee der agilen Entwicklung darauf, **besonders flexibel und dynamisch** zu sein, um sich auf unvorhergesehene Ereignisse und Veränderungen besser vorbereiten und anpassen zu können.
 
@@ -20,7 +20,13 @@ Dadurch hebt sich der agile Ansatz explizit von der klassischen **Wasserfallmeth
 
 Es gibt selbstverständlich Projekte, die sich für einen solchen sequentiellen Ansatz gut eignen, insbesondere dann, wenn der Auftraggeber schon eine sehr genaue Vorstellung vom finalen Produkt hat. Für innovative Lösungen, bei denen das Endprodukt zu Beginn noch nicht klar umrissen werden kann, entspricht ein agiles Vorgehen jedoch eher den Anforderungen und Realitäten solcher Vorhaben. Hier ist ein flexibler Umgang mit Änderungsanforderungen seitens des Auftraggebers grundsätzlich immer möglich, wenn sich etwa die Rahmenbedingungen oder Prioritäten im Laufe des Projekts ändern.
 
-**! HIER FEHLT EINE TABELLE !**
+| **Wasserfall**   | **Agil**  |
+|---|---|
+| Der Umfang des Endprodukts kann weit im Voraus klar definiert werden | Der Umfang des Endprodukts lässt sich erst nach Gesprächen mit Nutzer:innen und Stake- holdern klären  |
+| Die Anforderungen an das Endprodukt sind klar definiert und werden sich während der Projektlaufzeit kaum bis gar nicht ändern | Die Anforderungen an das Endprodukt müssen erst noch ermittelt werden und können sich im Laufe des Projekts noch ändern |   
+| Ergebnisse werden erst nach Ende der Entwicklungszeit erwartet   | (Zwischen-)Ergebnisse werden so schnell wie möglich erwartet |
+| Der Stakeholder-Kreis ist eher klein und/oder vertritt einheitliche Perspektiven  | Der Stakeholder-Kreis ist eher groß und/oder vertritt diverse Perspektiven  |
+| Der Auftraggeber wünscht sich keine aktive Mitwirkung im Entwicklungsprozess | Der Auftraggeber wünscht sich eine aktive Mitwirkung im Entwicklungsprozess |
 
 ## Welche Prinzipien stecken hinter den agilen Methoden?
 
@@ -35,11 +41,11 @@ Im „Agilen Manifest“ wurden 12 verschiedene Prinzipien für agiles Arbeiten 
 **4. Das Reagieren auf Veränderungen ist wichtiger als das Befolgen eines Plans**
 
 
-Die folgenden Erläuterungen der Prinzipien dienen dem Grundverständnis einer agilen Arbeitsweise, auf die später noch einmal ausführlicher eingegangen wird ([s. Kapitel 1.3](wie-arbeitet-man-agil)).
+**Die folgenden Erläuterungen der Prinzipien dienen dem Grundverständnis einer agilen Arbeitsweise, auf die später noch einmal ausführlicher eingegangen wird ([s. Kapitel 1.3](wie-arbeitet-man-agil)).**
 
 
 
-### 1) Der Fokus sollte stets auf den Bedürfnisse der Nutzer:innen liegen
+### 1) Der Fokus sollte stets auf den Bedürfnissen der Nutzer:innen liegen
 
 Bei der agilen Vorgehensweise stehen grundsätzlich die Nutzer:innen und ihre Bedürfnisse an erster Stelle. So soll verhindert werden, dass ein Produkt entwickelt wird, das am Ende unbrauchbar ist, weil niemand es nutzen möchte. Entsprechend sollte frühzeitig und regelmäßig Feedback von Nutzer:innen eingeholt und auch berücksichtigt werden.
 
