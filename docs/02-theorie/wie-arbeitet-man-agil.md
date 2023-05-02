@@ -69,7 +69,7 @@ Ein agiles Team lebt davon, im ständigen Austausch zueinander zu stehen, um mö
 
 ### Sprint-Planungstreffen
 
-Agile Teams arbeiten meistens in Sprints (siehe [„Aufteilung von Aufgaben und Rollen“](/wie-arbeitet-man-agil#sprint-planungstreffen) für eine Erklärung von Sprints). Zu Beginn eines Sprints gibt es ein Planungstreffen, in dem das Produktteam festlegt, was die Arbeitsziele und die damit verbundenen Aufgaben für den kommenden Sprint sind und wer an welchen Aufgaben arbeiten wird. Die Arbeitsziele sollten für den Zeitraum des Sprints realistisch geplant sein. Bei dieser Einschätzung spielen z. B. die Komplexität der Aufgaben und die Auslastung
+Agile Teams arbeiten meistens in Sprints (siehe [„Aufteilung von Aufgaben und Rollen“](wie-arbeitet-man-agil#sprints) für eine Erklärung von Sprints). Zu Beginn eines Sprints gibt es ein Planungstreffen, in dem das Produktteam festlegt, was die Arbeitsziele und die damit verbundenen Aufgaben für den kommenden Sprint sind und wer an welchen Aufgaben arbeiten wird. Die Arbeitsziele sollten für den Zeitraum des Sprints realistisch geplant sein. Bei dieser Einschätzung spielen z. B. die Komplexität der Aufgaben und die Auslastung
 im Team eine wichtige Rolle.
 
 ### Retrospektiven (Retros)
