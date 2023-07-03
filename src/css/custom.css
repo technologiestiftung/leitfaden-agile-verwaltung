@@ -33,17 +33,46 @@
 
   --ifm-toc-link-color: var(--ifm-color-gray-600);
 
+  --ifm-heading-color: var(--ifm-color-gray-600);
+  --ifm-heading-font-family: "National", serif;
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--ifm-color-primary);
+@font-face {
+  font-family: "National";
+  font-style: normal;
+  font-weight: 400;
+  src: local("National-Regular");
+  font-display: swap;
+}
+@font-face {
+  font-family: "National";
+  font-style: italic;
+  font-weight: 400;
+  src: local("National-Regular-Italic");
+  font-display: swap;
+}
+@font-face {
+  font-family: "National";
+  font-style: normal;
+  font-weight: 800;
+  src: local("National-Extrabold");
+  font-display: swap;
+}
+@font-face {
+  font-family: "National";
+  font-style: italic;
+  font-weight: 800;
+  src: local("National-Extrabold-Italic");
+  font-display: swap;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "National", serif;
 }
 
 .theme-doc-toc-desktop,
