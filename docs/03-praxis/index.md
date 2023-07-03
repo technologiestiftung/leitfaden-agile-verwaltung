@@ -1,3 +1,5 @@
 # Agil – so gehts!
 
-Das Wort „agil“ klingt für Sie noch immer nach einer leeren Worthülse? Machen Sie sich keine Sorgen - die gute Nachricht ist: agile Methoden sind kein „alles oder nichts“.
+**Das Wort „agil“ klingt für Sie noch immer nach einer leeren Worthülse? Machen Sie sich keine Sorgen – die gute Nachricht ist: agile Methoden sind kein „alles oder nichts“. Sie müssen weder den Anspruch noch die Befürchtung haben, Ihre Arbeitsweise grundlegend verändern oder sich komplett an die Arbeitsroutine von Entwickler:innen anpassen zu müssen, um Innovationen auf den Weg zu bringen. Vielmehr geht es darum, an einzelnen Stellschrauben zu drehen und sich dabei bewährte agile Methoden zu eigen zu machen, die auch ohne Vorkenntnisse im eigenen Arbeitsalltag leicht integrierbar sind.**
+
+In diesem Kapitel erhalten Sie praktische Tipps und Tricks, wie Sie sich geschickt durch den Verwaltungsalltag navigieren können, um die Entwicklung innovativer Verwaltungsangebote voranzutreiben. Betrachten Sie diesen Leitfaden daher weniger als dogmatische Anleitung, sondern eher als einen praktischen Wegbegleiter, der Sie durch die verschiedenen Phasen der digitalen Produktentwicklung begleitet.
