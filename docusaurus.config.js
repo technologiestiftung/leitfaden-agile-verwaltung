@@ -46,10 +46,11 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Leitfaden Agile Verwaltung",
+        style: "dark",
+        title: "Agil durch den Verwaltungsalltag",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "CityLAB Icon",
+          src: "img/citylab_icon_outlines.svg",
         },
         items: [
           {
@@ -59,9 +60,9 @@ const config = {
             label: "Leitfaden",
           },
           {
-            href: "https://www.technologiestiftung-berlin.de/",
-            label: "Technologiestiftung Berlin",
-            position: "right",
+            href: "https://citylab-berlin.org/de/wissensspeicher/",
+            position: "left",
+            label: "Weitere Ressourcen",
           },
         ],
       },

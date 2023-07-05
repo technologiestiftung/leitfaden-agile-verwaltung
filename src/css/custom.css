@@ -79,3 +79,16 @@ body {
 .theme-doc-toc-mobile {
   color: var(--ifm-color-gray-300);
 }
+
+.navbar--dark {
+  --ifm-navbar-background-color: var(--ifm-color-gray-600);
+  --ifm-navbar-link-hover-color: var(--ifm-color-white);
+}
+
+.navbar__link {
+  --ifm-navbar-link-color: var(--ifm-color-white);
+}
+
+.navbar__link--active {
+  font-weight: 800;
+}
