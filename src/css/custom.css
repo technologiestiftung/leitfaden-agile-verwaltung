@@ -41,8 +41,8 @@
   --ifm-toc-border-color: var(--ifm-color-gray-100);
 
   --ifm-heading-color: var(--ifm-color-gray-600);
-  --ifm-heading-font-family: "National", serif;
-
+  --ifm-font-family-base: "National", Arial, Helvetica, sans-serif;
+  --ifm-heading-font-family: var(--ifm-font-family-base);
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
@@ -53,35 +53,43 @@
   font-family: "National";
   font-style: normal;
   font-weight: 400;
-  src: local("National-Regular");
+  src: local("National-Regular"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Regular.woff2"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Regular.woff");
   font-display: swap;
 }
 @font-face {
   font-family: "National";
   font-style: italic;
   font-weight: 400;
-  src: local("National-Regular-Italic");
+  src: local("National-Regular-Italic"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Regular-Italic.woff2"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Regular-Italic.woff");
   font-display: swap;
 }
 @font-face {
   font-family: "National";
   font-style: normal;
   font-weight: 800;
-  src: local("National-Extrabold");
+  src: local("National-Extrabold"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Extrabold.woff2"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Extrabold.woff");
   font-display: swap;
 }
 @font-face {
   font-family: "National";
   font-style: italic;
   font-weight: 800;
-  src: local("National-Extrabold-Italic");
+  src: local("National-Extrabold-Italic"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Extrabold-Italic.woff2"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-Extrabold-Italic.woff");
   font-display: swap;
 }
 
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "National", serif;
+  font-family: var(--ifm-font-family-base);
 }
 
 .theme-doc-toc-desktop,
