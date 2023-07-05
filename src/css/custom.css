@@ -14,6 +14,8 @@
   --ifm-color-primary-lighter: #3636ba;
   --ifm-color-primary-lightest: #4646c9;
 
+  --ifm-color-secondary: #f64c72;
+
   --ifm-color-black: #0b0c13;
 
   --ifm-color-gray-100: #eaeaf6;
@@ -32,6 +34,11 @@
   --ifm-menu-color: var(--ifm-color-gray-400);
 
   --ifm-toc-link-color: var(--ifm-color-gray-600);
+
+  --ifm-menu-color-background-active: #f4f4fa;
+  --ifm-menu-color-background-hover: #f4f4fa;
+
+  --ifm-toc-border-color: var(--ifm-color-gray-100);
 
   --ifm-heading-color: var(--ifm-color-gray-600);
   --ifm-heading-font-family: "National", serif;
@@ -95,4 +102,17 @@ body {
 
 .navbar-sidebar--show {
   --ifm-menu-color-active: var(--ifm-color-white);
+}
+
+.menu__link,
+.menu__list-item-collapsible {
+  border-radius: 0;
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  border-left: 4px solid var(--ifm-color-secondary);
+}
+
+.navbar-sidebar--show {
+  --ifm-menu-color-background-hover: transparent;
 }
