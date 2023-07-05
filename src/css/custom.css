@@ -6,13 +6,76 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #1d3690;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #2f2fa2;
+  --ifm-color-primary-dark: #2a2a92;
+  --ifm-color-primary-darker: #28288a;
+  --ifm-color-primary-darkest: #212171;
+  --ifm-color-primary-light: #3434b2;
+  --ifm-color-primary-lighter: #3636ba;
+  --ifm-color-primary-lightest: #4646c9;
+
+  --ifm-color-black: #0b0c13;
+
+  --ifm-color-gray-100: #eaeaf6;
+  --ifm-color-gray-200: #d7d8df;
+  --ifm-color-gray-300: #b0b0bf;
+  --ifm-color-gray-400: #8889a0;
+  --ifm-color-gray-500: #616180;
+  --ifm-color-gray-600: #393a60;
+  --ifm-color-gray-700: #2e2e4d;
+  --ifm-color-gray-800: #22233a;
+  --ifm-color-gray-900: #171726;
+  --ifm-color-gray-1000: var(--ifm-color-black);
+
+  --ifm-color-content: var(--ifm-color-gray-600);
+
+  --ifm-menu-color: var(--ifm-color-gray-400);
+
+  --ifm-toc-link-color: var(--ifm-color-gray-600);
+
+  --ifm-heading-color: var(--ifm-color-gray-600);
+  --ifm-heading-font-family: "National", serif;
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+@font-face {
+  font-family: "National";
+  font-style: normal;
+  font-weight: 400;
+  src: local("National-Regular");
+  font-display: swap;
+}
+@font-face {
+  font-family: "National";
+  font-style: italic;
+  font-weight: 400;
+  src: local("National-Regular-Italic");
+  font-display: swap;
+}
+@font-face {
+  font-family: "National";
+  font-style: normal;
+  font-weight: 800;
+  src: local("National-Extrabold");
+  font-display: swap;
+}
+@font-face {
+  font-family: "National";
+  font-style: italic;
+  font-weight: 800;
+  src: local("National-Extrabold-Italic");
+  font-display: swap;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "National", serif;
+}
+
+.theme-doc-toc-desktop,
+.theme-doc-toc-mobile {
+  color: var(--ifm-color-gray-300);
 }
