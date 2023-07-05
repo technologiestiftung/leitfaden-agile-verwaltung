@@ -92,3 +92,7 @@ body {
 .navbar__link--active {
   font-weight: 800;
 }
+
+.navbar-sidebar--show {
+  --ifm-menu-color-active: var(--ifm-color-white);
+}
