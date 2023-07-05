@@ -14,6 +14,8 @@
   --ifm-color-primary-lighter: #3636ba;
   --ifm-color-primary-lightest: #4646c9;
 
+  --ifm-color-secondary: #f64c72;
+
   --ifm-color-black: #0b0c13;
 
   --ifm-color-gray-100: #eaeaf6;
@@ -33,11 +35,18 @@
 
   --ifm-toc-link-color: var(--ifm-color-gray-600);
 
+  --ifm-menu-color-background-active: #f4f4fa;
+  --ifm-menu-color-background-hover: #f4f4fa;
+
+  --ifm-toc-border-color: var(--ifm-color-gray-100);
+
   --ifm-heading-color: var(--ifm-color-gray-600);
   --ifm-heading-font-family: "National", serif;
 
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgb(246,76,114)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
 }
 
 @font-face {
@@ -95,4 +104,17 @@ body {
 
 .navbar-sidebar--show {
   --ifm-menu-color-active: var(--ifm-color-white);
+}
+
+.menu__link,
+.menu__list-item-collapsible {
+  border-radius: 0;
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  border-left: 4px solid var(--ifm-color-secondary);
+}
+
+.navbar-sidebar--show {
+  --ifm-menu-color-background-hover: transparent;
 }
