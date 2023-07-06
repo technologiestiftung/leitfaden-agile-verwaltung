@@ -42,6 +42,8 @@
 
   --ifm-color-content-secondary: var(--ifm-color-gray-400);
 
+  --ifm-breadcrumb-item-background-active: #f4f4fa;
+
   --ifm-heading-color: var(--ifm-color-gray-600);
   --ifm-font-family-base: "National", Arial, Helvetica, sans-serif;
   --ifm-heading-font-family: var(--ifm-font-family-base);
