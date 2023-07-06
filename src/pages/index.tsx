@@ -24,12 +24,12 @@ export default function Home(): JSX.Element {
           <div className={styles.logos}>
             <img
               src="/img/tsb_logo_outlines.svg"
-              alt=""
+              alt="Logo der Technologiestiftung Berlin"
               style={{ width: "140px" }}
             />
             <img
               src="/img/citylab_logo_outlines.svg"
-              alt=""
+              alt="Logo des CityLAB Berlin"
               style={{ width: "200px" }}
             />
           </div>
