@@ -3,7 +3,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Leitfaden Agile Verwaltung",
+  title: "Agil durch den Verwaltungsalltag",
   tagline:
     "Ein praktischer Leitfaden zur Entwicklung digitaler Verwaltungsangebote",
   favicon: "img/favicon.ico",
