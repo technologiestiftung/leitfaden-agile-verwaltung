@@ -40,6 +40,8 @@
 
   --ifm-toc-border-color: var(--ifm-color-gray-100);
 
+  --ifm-color-content-secondary: var(--ifm-color-gray-400);
+
   --ifm-heading-color: var(--ifm-color-gray-600);
   --ifm-font-family-base: "National", Arial, Helvetica, sans-serif;
   --ifm-heading-font-family: var(--ifm-font-family-base);
@@ -125,4 +127,15 @@ body {
 
 .navbar-sidebar--show {
   --ifm-menu-color-background-hover: transparent;
+}
+
+.pagination-nav__link--next .pagination-nav__label::after,
+.pagination-nav__link--prev .pagination-nav__label::before {
+  color: var(--ifm-color-secondary);
+}
+
+.pagination-nav__link {
+  border: 0;
+  border-top: 1px solid var(--ifm-color-secondary);
+  border-radius: 0;
 }
