@@ -1,6 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+const path = require("path");
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Leitfaden Agile Verwaltung",
@@ -24,6 +26,20 @@ const config = {
     defaultLocale: "de",
     locales: ["de"],
   },
+
+  plugins: [
+    async function MatomoPlugin() {
+      const isProd = process.env.NODE_ENV === "production";
+      return {
+        name: "matomo-plugin",
+        getClientModules() {
+          return isProd
+            ? [path.resolve(__dirname, "./lib/matomoPlugin.js")]
+            : [];
+        },
+      };
+    },
+  ],
 
   presets: [
     [
