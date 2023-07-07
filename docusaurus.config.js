@@ -68,19 +68,6 @@ const config = {
           alt: "CityLAB Icon",
           src: "img/citylab_icon_outlines.svg",
         },
-        items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Leitfaden",
-          },
-          {
-            href: "https://citylab-berlin.org/de/wissensspeicher/",
-            position: "left",
-            label: "Weitere Ressourcen",
-          },
-        ],
       },
       footer: {
         style: "light",
