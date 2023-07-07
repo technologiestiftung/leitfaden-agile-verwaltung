@@ -14,7 +14,7 @@ export default function Home(): JSX.Element {
               <h1 className={styles.headline}>{siteConfig.title}</h1>
               <p className={styles.tagline}>{siteConfig.tagline}</p>
               <a href="/docs/einfuehrung" className={styles.button}>
-                Zur Einführung
+                Zum Leitfaden
               </a>
             </div>
             <img src="/img/agile-viz.svg" alt="" className={styles.viz} />
