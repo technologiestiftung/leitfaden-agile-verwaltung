@@ -67,8 +67,8 @@
   font-style: italic;
   font-weight: 400;
   src: local("National-Regular-Italic"),
-    url("https://fonts.citylab-berlin.org/national/NationalWeb-Regular-Italic.woff2"),
-    url("https://fonts.citylab-berlin.org/national/NationalWeb-Regular-Italic.woff");
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-RegularItalic.woff2"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-RegularItalic.woff");
   font-display: swap;
 }
 @font-face {
@@ -85,8 +85,8 @@
   font-style: italic;
   font-weight: 800;
   src: local("National-Extrabold-Italic"),
-    url("https://fonts.citylab-berlin.org/national/NationalWeb-Extrabold-Italic.woff2"),
-    url("https://fonts.citylab-berlin.org/national/NationalWeb-Extrabold-Italic.woff");
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-ExtraboldItalic.woff2"),
+    url("https://fonts.citylab-berlin.org/national/NationalWeb-ExtraboldItalic.woff");
   font-display: swap;
 }
 
