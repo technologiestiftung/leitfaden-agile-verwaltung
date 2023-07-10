@@ -52,6 +52,8 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
+  --ifm-list-left-padding: 2.5rem;
+
   --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgb(246,76,114)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
 }
 
@@ -169,4 +171,15 @@ table td {
 
 table tr:nth-child(2n) {
   background-color: var(--ifm-color-blue-50);
+}
+
+ol li::marker {
+  font-weight: 800;
+}
+
+ol {
+  background-color: var(--ifm-color-blue-50);
+  border-left: 4px solid var(--ifm-color-secondary);
+  padding-top: calc(var(--ifm-spacing-vertical) / 2);
+  padding-bottom: calc(var(--ifm-spacing-vertical) / 2);
 }
