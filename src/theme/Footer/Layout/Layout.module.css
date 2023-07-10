@@ -1,0 +1,28 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  place-content: space-between;
+  column-gap: 3rem;
+  row-gap: 5rem;
+  padding: calc(var(--ifm-spacing-vertical) * 3) var(--ifm-spacing-horizontal);
+  background-color: var(--ifm-color-white);
+}
+
+.logoGrid {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 1rem;
+  column-gap: 3rem;
+}
+
+.legalGrid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  place-content: space-between;
+  column-gap: var(--ifm-spacing-horizontal);
+  row-gap: var(--ifm-spacing-vertical);
+  border-top: 1px solid var(--ifm-color-gray-200);
+  background-color: var(--ifm-color-blue-50);
+  padding: var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal);
+}

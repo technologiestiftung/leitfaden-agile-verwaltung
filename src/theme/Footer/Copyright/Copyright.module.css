@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: calc(var(--ifm-spacing-horizontal) * 0.5);
+  align-items: center;
+}
+
+.p {
+  margin-bottom: 0;
+}
+
+.a {
+  text-decoration: underline;
+  color: var(--ifm-color-content);
+}

@@ -72,6 +72,24 @@ const config = {
       footer: {
         style: "light",
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        links: [
+          {
+            label: "Kontakt",
+            href: "/leitfaden/autorinnen",
+          },
+          {
+            label: "Quellcode",
+            href: "https://github.com/technologiestiftung/leitfaden-agile-verwaltung",
+          },
+          {
+            label: "Datenschutz",
+            href: "https://www.technologiestiftung-berlin.de/datenschutz",
+          },
+          {
+            label: "Impressum",
+            href: "https://www.technologiestiftung-berlin.de/impressum",
+          },
+        ],
       },
       colorMode: {
         defaultMode: "light",

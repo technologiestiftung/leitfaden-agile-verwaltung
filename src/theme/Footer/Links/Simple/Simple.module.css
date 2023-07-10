@@ -1,0 +1,6 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--ifm-global-spacing);
+  row-gap: calc(var(--ifm-spacing-vertical) / 2);
+}
