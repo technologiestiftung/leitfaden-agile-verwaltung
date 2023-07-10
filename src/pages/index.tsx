@@ -2,6 +2,7 @@ import React from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import styles from "./index.module.css";
+import TsbLogo from "@site/static/img/tsb_logo_outlines.svg";
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -22,10 +23,8 @@ export default function Home(): JSX.Element {
         </div>
         <div className={styles.wrapperLogos}>
           <div className={styles.logos}>
-            <img
-              src="/img/tsb_logo_outlines.svg"
-              alt="Logo der Technologiestiftung Berlin"
-              style={{ width: "140px" }}
+            <TsbLogo
+              style={{ width: "140px", height: "auto", color: "#fff" }}
             />
             <img
               src="/img/citylab_logo_outlines.svg"
