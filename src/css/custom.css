@@ -149,3 +149,24 @@ body {
   --ifm-alert-border-color: var(--ifm-color-primary);
   --ifm-alert-border-radius: 0;
 }
+
+table {
+  --ifm-table-border-color: transparent;
+}
+
+table thead tr {
+  border-bottom: 0;
+}
+
+table thead {
+  background-color: var(--ifm-color-blue-50);
+}
+
+table th,
+table td {
+  border: 0;
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--ifm-color-blue-50);
+}
