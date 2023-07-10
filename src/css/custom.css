@@ -35,14 +35,16 @@
 
   --ifm-toc-link-color: var(--ifm-color-gray-600);
 
-  --ifm-menu-color-background-active: #f4f4fa;
-  --ifm-menu-color-background-hover: #f4f4fa;
+  --ifm-color-blue-50: #f4f4fa;
+
+  --ifm-menu-color-background-active: var(--ifm-color-blue-50);
+  --ifm-menu-color-background-hover: var(--ifm-color-blue-50);
 
   --ifm-toc-border-color: var(--ifm-color-gray-100);
 
   --ifm-color-content-secondary: var(--ifm-color-gray-400);
 
-  --ifm-breadcrumb-item-background-active: #f4f4fa;
+  --ifm-breadcrumb-item-background-active: var(--ifm-color-blue-50);
 
   --ifm-heading-color: var(--ifm-color-gray-600);
   --ifm-font-family-base: "National", Arial, Helvetica, sans-serif;
@@ -140,4 +142,10 @@ body {
   border: 0;
   border-top: 1px solid var(--ifm-color-secondary);
   border-radius: 0;
+}
+
+.alert {
+  --ifm-color-info-contrast-background: var(--ifm-color-blue-50);
+  --ifm-alert-border-color: var(--ifm-color-primary);
+  --ifm-alert-border-radius: 0;
 }
