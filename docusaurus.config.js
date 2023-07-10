@@ -48,6 +48,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: "/leitfaden",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

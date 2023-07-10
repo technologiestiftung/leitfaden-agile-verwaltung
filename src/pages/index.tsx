@@ -13,7 +13,7 @@ export default function Home(): JSX.Element {
             <div className={styles.texts}>
               <h1 className={styles.headline}>{siteConfig.title}</h1>
               <p className={styles.tagline}>{siteConfig.tagline}</p>
-              <a href="/docs/einfuehrung" className={styles.button}>
+              <a href="/leitfaden/einfuehrung" className={styles.button}>
                 Zum Leitfaden
               </a>
             </div>
