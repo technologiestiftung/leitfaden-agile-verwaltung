@@ -8,7 +8,7 @@ sidebar_position: 1
 
 **Das Wort „Agilität“ taucht heute an allen Ecken und Enden auf, wenn es um moderne Arbeitsprozesse geht. Doch was genau verbirgt sich hinter diesem Begriff? Und wieso kommt ihm auch im Verwaltungskontext eine immer größere Bedeutung zu?**
 
-:::info Die Definition von agil
+:::note Die Definition von agil
 
 Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“]([https://agilemanifesto.org/iso/de/manifesto.html]), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.
 

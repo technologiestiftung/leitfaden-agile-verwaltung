@@ -147,9 +147,18 @@ body {
 }
 
 .alert {
-  --ifm-color-info-contrast-background: var(--ifm-color-blue-50);
-  --ifm-alert-border-color: var(--ifm-color-primary);
+  --ifm-color-secondary-contrast-background: var(--ifm-color-blue-50);
+  --ifm-alert-border-color: var(--ifm-color-secondary);
   --ifm-alert-border-radius: 0;
+}
+
+.alert a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.alert a:hover {
+  text-decoration: underline;
 }
 
 table {
@@ -177,9 +186,19 @@ ol li::marker {
   font-weight: 800;
 }
 
-ol {
+.theme-doc-markdown ol,
+.theme-doc-markdown ul {
   background-color: var(--ifm-color-blue-50);
   border-left: 4px solid var(--ifm-color-secondary);
+  padding-right: var(--ifm-spacing-horizontal);
+}
+
+.theme-doc-markdown ol {
   padding-top: calc(var(--ifm-spacing-vertical) / 2);
   padding-bottom: calc(var(--ifm-spacing-vertical) / 2);
+}
+
+.theme-doc-markdown ul {
+  padding-top: var(--ifm-spacing-vertical);
+  padding-bottom: var(--ifm-spacing-vertical);
 }
