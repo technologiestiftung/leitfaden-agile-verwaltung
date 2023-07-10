@@ -12,16 +12,20 @@ Ebenfalls denkbar ist es, einzelne Elemente – Tools, Formate oder Strategien �
 Im Folgenden finden Sie eine Auswahl agiler Methoden und Elemente, die ohne Anspruch auf Vollständigkeit näher vorgestellt und erläutert werden sollen. Zu beachten ist: je nach Methode werden bestimmte Begriffe eventuell unterschiedlich verstanden oder definiert. Die Erklärungen
 hier sind daher bewusst allgemein gefasst. Sollten Sie bei dem einen oder anderen Begriff tiefer eintauchen wollen (wozu wir Sie gerne ermutigen möchten), werden Sie womöglich auch andere Auslegungen oder strengere Definitionen vorfinden.
 
-## 1) Nutzer:innenbedarfe erfassen und verstehen
+## 1. Nutzer:innenbedarfe erfassen und verstehen
 
 ### User Personas & User Stories
 
 Nutzer:innen und ihre Bedarfe sind zentral für agile Entwicklungsstrategien. Ein Weg, wie agile Teams diese Bedarfe in ihrer Entwicklungsarbeit verankern, ist die Erfassung von Nutzer:innenprofilen (sogenannten „User Personas“). Hierbei handelt es sich um Kurzprofile von potenziellen (aber fiktiven) Produktnutzer:innen, die Details wie Alter, Geschlecht
 und Beruf umfassen können.
 
-Das Produktteam nutzt diese Profile, um sogenannte „User Stories“ (Nutzer:innengeschichten) zu schreiben. Diese enthalten kurze Beschreibungen (wirklich nur 1-2 Sätze) über die Interessen und Ziele eines/einer Nutzer:in im Bezug auf das zu entwickelnde Produkt. Die klassische Struktur einer User Story ist:
+Das Produktteam nutzt diese Profile, um sogenannte „User Stories“ (Nutzer:innengeschichten) zu schreiben. Diese enthalten kurze Beschreibungen (wirklich nur 1-2 Sätze) über die Interessen und Ziele eines/einer Nutzer:in im Bezug auf das zu entwickelnde Produkt.
 
-> Als ein/e *[User Persona]* will ich *[irgendein Ziel erreichen]* damit ich *[irgendeinen Mehrwert aus dem Ziel realisieren kann]*.
+:::note Klassische Struktur einer User Story
+
+Als ein/e *[User Persona]* will ich *[irgendein Ziel erreichen]* damit ich *[irgendeinen Mehrwert aus dem Ziel realisieren kann]*.
+
+:::
 
 User Personas und User Stories helfen dem Produktteam ihre Arbeit rund um die tatsächlichen Nutzer:innenbedarfe zu fokussieren: so behält das Team im Blick, für wen sie das Produkt letztlich entwickeln und was diese Personen von dem Produkt erwarten.
 
@@ -37,7 +41,7 @@ Die agile Entwicklung sieht vor, dass ein Produkt über mehrere Iterationszyklen
 
 Wie genau ein User Test durchgeführt wird, ist abhängig vom Produkt. Wie zuvor gilt auch hier wieder, den Fokus auf echte Nutzer:innen (und nicht jemand aus dem Produktteam oder Kolleg:innen aus einer anderen Abteilung) zu richten und zu verstehen, wie sie das Produkt bedienen. In der Regel gibt das Entwicklungsteam den Nutzer:innen eine Aufgabe, die mit dem Produkt erledigt werden soll (z. B. einen Antrag mithilfe des Produkts einzureichen oder ein passendes Angebot durch die Suchfunktion zu identifizieren). Anschließend beobachtet jemand aus dem Team die Nutzer:innen und notiert, wo es Schwierigkeiten bei der Bedienung des Produkts gab oder welche Aspekte des Produkts eventuell nicht wie erwartet funktioniert haben. Dieses Wissen wird schließlich für die nächste Iteration des Produkts benutzt.
 
-## 2) Aufteilung von Aufgaben und Rollen
+## 2. Aufteilung von Aufgaben und Rollen
 
 ### Rollen im Team
 
@@ -61,7 +65,7 @@ Agile Teams arbeiten gewöhnlich in sogenannten Sprints. Ein Sprint bezeichnet e
 
 Das Team entscheidet zu Beginn eines Sprints, welche Aufgaben aus dem Produkt-Backlog im jeweiligen Sprint bearbeitet werden sollen. Entsprechend sollten nur Aufgaben ausgewählt werden, die auch realistisch innerhalb des Sprint-Zeitraums erledigt werden können, denn: Während eines Sprints kommen keine neuen Anforderungen oder Anpassungen hinzu, um das Team nicht zu stören.
 
-## 3) Austausch im Team
+## 3. Austausch im Team
 
 ### Daily Standup
 

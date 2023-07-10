@@ -35,20 +35,24 @@
 
   --ifm-toc-link-color: var(--ifm-color-gray-600);
 
-  --ifm-menu-color-background-active: #f4f4fa;
-  --ifm-menu-color-background-hover: #f4f4fa;
+  --ifm-color-blue-50: #f4f4fa;
+
+  --ifm-menu-color-background-active: var(--ifm-color-blue-50);
+  --ifm-menu-color-background-hover: var(--ifm-color-blue-50);
 
   --ifm-toc-border-color: var(--ifm-color-gray-100);
 
   --ifm-color-content-secondary: var(--ifm-color-gray-400);
 
-  --ifm-breadcrumb-item-background-active: #f4f4fa;
+  --ifm-breadcrumb-item-background-active: var(--ifm-color-blue-50);
 
   --ifm-heading-color: var(--ifm-color-gray-600);
   --ifm-font-family-base: "National", Arial, Helvetica, sans-serif;
   --ifm-heading-font-family: var(--ifm-font-family-base);
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --ifm-list-left-padding: 2.5rem;
 
   --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgb(246,76,114)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
 }
@@ -140,4 +144,61 @@ body {
   border: 0;
   border-top: 1px solid var(--ifm-color-secondary);
   border-radius: 0;
+}
+
+.alert {
+  --ifm-color-secondary-contrast-background: var(--ifm-color-blue-50);
+  --ifm-alert-border-color: var(--ifm-color-secondary);
+  --ifm-alert-border-radius: 0;
+}
+
+.alert a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.alert a:hover {
+  text-decoration: underline;
+}
+
+table {
+  --ifm-table-border-color: transparent;
+}
+
+table thead tr {
+  border-bottom: 0;
+}
+
+table thead {
+  background-color: var(--ifm-color-blue-50);
+}
+
+table th,
+table td {
+  border: 0;
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--ifm-color-blue-50);
+}
+
+ol li::marker {
+  font-weight: 800;
+}
+
+.theme-doc-markdown ol,
+.theme-doc-markdown ul {
+  background-color: var(--ifm-color-blue-50);
+  border-left: 4px solid var(--ifm-color-secondary);
+  padding-right: var(--ifm-spacing-horizontal);
+}
+
+.theme-doc-markdown ol {
+  padding-top: calc(var(--ifm-spacing-vertical) / 2);
+  padding-bottom: calc(var(--ifm-spacing-vertical) / 2);
+}
+
+.theme-doc-markdown ul {
+  padding-top: var(--ifm-spacing-vertical);
+  padding-bottom: var(--ifm-spacing-vertical);
 }

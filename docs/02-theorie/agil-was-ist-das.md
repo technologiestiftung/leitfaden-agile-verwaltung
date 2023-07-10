@@ -8,7 +8,11 @@ sidebar_position: 1
 
 **Das Wort „Agilität“ taucht heute an allen Ecken und Enden auf, wenn es um moderne Arbeitsprozesse geht. Doch was genau verbirgt sich hinter diesem Begriff? Und wieso kommt ihm auch im Verwaltungskontext eine immer größere Bedeutung zu?**
 
-`Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“]([https://agilemanifesto.org/iso/de/manifesto.html]), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.`
+:::note Die Definition von agil
+
+Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“](https://agilemanifesto.org/iso/de/manifesto.html), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.
+
+:::
 
 Obwohl das Konzept aus der Softwareentwicklung stammt, wird der Begriff agil heutzutage auch häufig benutzt, um eine neue Denkweise im Projektmanagement zu beschreiben, die sich von planungsorientierten, traditionellen Ansätzen distanziert. Insgesamt basiert die Idee der agilen Entwicklung darauf, **besonders flexibel und dynamisch** zu sein, um sich auf unvorhergesehene Ereignisse und Veränderungen besser vorbereiten und anpassen zu können.
 
@@ -32,36 +36,33 @@ Es gibt selbstverständlich Projekte, die sich für einen solchen sequentiellen 
 
 Im „Agilen Manifest“ wurden 12 verschiedene Prinzipien für agiles Arbeiten definiert. Diese lassen sich in folgende vier Grundprinzipien zusammenfassen:
 
-**1. Der Fokus sollte stets auf den Bedürfnissen der Nutzer:innen liegen**
+1. Der Fokus sollte stets auf den Bedürfnissen der Nutzer:innen liegen
 
-**2. Dienstleistungen und Produkte sollen kontinuierlich verbessert werden**
+2. Dienstleistungen und Produkte sollen kontinuierlich verbessert werden
 
-**3. Die Zusammenarbeit im Team sollte kontinuierlich verbessert werden**
+3. Die Zusammenarbeit im Team sollte kontinuierlich verbessert werden
 
-**4. Das Reagieren auf Veränderungen ist wichtiger als das Befolgen eines Plans**
-
+4. Das Reagieren auf Veränderungen ist wichtiger als das Befolgen eines Plans
 
 **Die folgenden Erläuterungen der Prinzipien dienen dem Grundverständnis einer agilen Arbeitsweise, auf die später noch einmal ausführlicher eingegangen wird ([s. Kapitel 1.3](wie-arbeitet-man-agil)).**
 
-
-
-### 1) Der Fokus sollte stets auf den Bedürfnissen der Nutzer:innen liegen
+### 1. Der Fokus sollte stets auf den Bedürfnissen der Nutzer:innen liegen
 
 Bei der agilen Vorgehensweise stehen grundsätzlich die Nutzer:innen und ihre Bedürfnisse an erster Stelle. So soll verhindert werden, dass ein Produkt entwickelt wird, das am Ende unbrauchbar ist, weil niemand es nutzen möchte. Entsprechend sollte frühzeitig und regelmäßig Feedback von Nutzer:innen eingeholt und auch berücksichtigt werden.
 
 → [Mehr über die Erfassung von Nutzer:innenbedarfe und -Feedback](wie-arbeitet-man-agil#1-nutzerinnenbedarfe-erfassen-und-verstehen) 
 
-### 2) Dienstleistungen und Produkte sollen kontinuierlich verbessert werden
+### 2. Dienstleistungen und Produkte sollen kontinuierlich verbessert werden
 
 Agiles Arbeiten impliziert, dass das Produkt oder die Dienstleistung in verschiedenen Iterationen kontinuierlich verbessert wird. Das heißt konkret: Für jeden Zyklus wird an einer spezifischen Funktion oder einem Aspekt des Produkts gearbeitet, das im Anschluss von Nutzer:innen getestet wird. Am Ende jeder Iteration steht ein Produkt mit einem neu erarbeiteten Feature, das bei der nächsten Iteration wieder um ein weiteres neues Feature ergänzt wird. Der Prozess der schrittweisen Entwicklung ermöglicht es, die Komplexität bei der Entwicklung eines digitalen Dienstes herunterzubrechen, Feedback-Schleifen zu verkürzen und Nuzer:innenbedürfnisse besser zu berücksichtigen.
 
-### 3) Die Zusammenarbeit im Team sollte kontinuierlich verbessert werden
+### 3. Die Zusammenarbeit im Team sollte kontinuierlich verbessert werden
 
 Das Ziel der agilen Herangehensweise bezieht sich nicht nur darauf, wie möglichst schnell ein funktionsfähiges Produkt geschaffen werden kann. Agilität fokussiert sich auch darauf, wie das Team selbst möglichst effizient und effektiv zusammenarbeiten kann. Dies kann nur funktionieren, wenn die Teammitglieder:innen auch regelmäßig miteinander kommunizieren und im Austausch stehen. Ein fester Bestandteil der agilen Herangehensweise ist daher auch ein regelmäßiges, internes „Einchecken“ im Team – viele Teams machen solche Check-ins sogar täglich.
 
 → [Mehr über Daily Standups als Format](wie-arbeitet-man-agil#daily-standup) 
 
-### 4) Das Reagieren auf Veränderungen ist wichtiger als das Befolgen eines Plans
+### 4. Das Reagieren auf Veränderungen ist wichtiger als das Befolgen eines Plans
 
 Agile Methoden sind keine Erfolgsgarantie, aber sie ermöglichen es Teams, Hindernisse und Risiken besser anzugehen und mehr Freiraum für Experimente zu schaffen. Das liegt daran, dass ein agiles Vorgehen es ermöglicht, potenzielle (oder bereits existierende) Probleme frühzeitig zu erkennen und gegenzusteuern. Größere Probleme oder Misserfolge können beispielsweise verhindert werden, indem man sich regelmäßig verbesserte Versionen eines Produkts (z. B. als **„Prototypen“**) zeigen lässt, die auf Qualität und Funktionalität getestet werden.
 
