@@ -150,6 +150,8 @@ body {
   --ifm-color-secondary-contrast-background: var(--ifm-color-blue-50);
   --ifm-alert-border-color: var(--ifm-color-secondary);
   --ifm-alert-border-radius: 0;
+  --ifm-alert-background-color: var(--ifm-color-blue-50);
+  --ifm-alert-border-left-width: 4px;
 }
 
 .alert a {
