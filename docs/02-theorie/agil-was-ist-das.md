@@ -10,7 +10,7 @@ sidebar_position: 1
 
 :::note Die Definition von agil
 
-Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“]([https://agilemanifesto.org/iso/de/manifesto.html]), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.
+Die Definition von agil – im Sinne von agiler Entwicklung – findet ihren Ursprung im sogenannten [„Agilen Manifest“](https://agilemanifesto.org/iso/de/manifesto.html), das 2001 von einer führenden Gruppe von Softwareentwicklern erfasst und veröffentlicht wurde. In diesem Manifest wurden [zwölf Prinzipien und Werte](https://agilemanifesto.org/iso/de/principles.html) festgelegt, die das heutige Grundverständnis des agilen Arbeitens begründen.
 
 :::
 
