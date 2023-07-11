@@ -7,7 +7,7 @@ import TsbLogo from "@site/static/img/tsb_logo_outlines.svg";
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+    <Layout description={siteConfig.tagline}>
       <div className={styles.wrapperOuter}>
         <div className={styles.wrapperMain}>
           <div className={styles.main}>
