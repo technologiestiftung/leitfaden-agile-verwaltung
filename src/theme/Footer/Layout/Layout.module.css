@@ -1,3 +1,7 @@
+.footer {
+  border-top: 1px solid var(--ifm-color-gray-100);
+}
+
 .wrapper {
   display: flex;
   flex-wrap: wrap;
