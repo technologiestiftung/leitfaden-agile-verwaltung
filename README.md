@@ -1,6 +1,6 @@
 # Leitfaden Agile Verwaltung
 
-This repository contains the source code for _Agil duch den Verwaltungsalltag_, a (German-language) guide to the development of digital services for public administrations.
+This repository contains the source code for _Agil durch den Verwaltungsalltag_, a (German-language) guide to the development of digital services for public administrations.
 
 > This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -38,7 +38,7 @@ This project was bootstrapped via Docusaurus, so the folder structure mostly fol
 
 Noteworthy might be that we adjusted some of their default components (`/src/theme/`), created custom components (`/src/components/`), and did considerable styling changes (`/src/css/custom.css` and throughout the various `*.module.css` files in the directories).
 
-Static assets are defined in `static/`
+Static assets are defined in `static/`.
 
 ## Deployment
 
